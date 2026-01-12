@@ -10,5 +10,6 @@ public class Arithmetic_Operator {
         System.out.println("Multiplication: " + (a * b));
         System.out.println("Division: " + (a / b));
         System.out.println("Modulus: " + (a % b));
+
     }
 }
